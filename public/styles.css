@@ -42,11 +42,10 @@ body {
     left: 20px;
   }
 
-  .counter {
+  .counter-container {
       position: fixed;
       bottom: 20px;
       right: 20px;
-      color: #181818  ;
   }
 
   button {
