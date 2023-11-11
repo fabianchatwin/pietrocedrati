@@ -67,7 +67,7 @@ document.addEventListener('keydown', function (event) {
     loadPrevious();
     }
 });
-document.querySelector('.image-container').addEventListener('click', loadNext);
+document.querySelector('.flex-container').addEventListener('click', loadNext);
 
 // Initial load
 loadSlide(currentIndex);

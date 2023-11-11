@@ -4,7 +4,6 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #333; 
-    font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
     align-items: center; 
     height: 100%;      
@@ -19,6 +18,7 @@ body {
   .text-container {
     flex: 1;
     padding: 20px;
+    font-size: 2em;
     box-sizing: border-box;
     color: white;
     max-width: 30%;
@@ -37,13 +37,9 @@ body {
   }
 
   .buttons-container {
-    position: absolute;
-    top: 0;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    box-sizing: border-box;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
   }
 
   .counter {
@@ -66,8 +62,8 @@ body {
   }
 
   img {
-      width: auto;
-      height: 100%;
+    width: auto;
+    height: 100%;
     max-width: 100%;
     transition: opacity 0.5s ease-in-out;
   }
