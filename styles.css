@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #333; 
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center; 
+    height: 100%;      
+  }
+
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+  }
+
+  .text-container {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    color: white;
+    max-width: 30%;
+    align-self: center; 
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  .image-container {
+    flex: 2;
+    max-height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  .buttons-container {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .counter {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      color: #181818  ;
+  }
+
+  button {
+      width: 50px;
+      height: 50px;
+      font-size: 30px;
+      font-weight: bold;
+      border-radius: 20px;
+      border-width: 0px;
+      cursor: pointer;
+      color: #1f1f1f;
+      background-color: #919191;
+  }
+
+  img {
+      width: auto;
+      height: 100%;
+    max-width: 100%;
+    transition: opacity 0.5s ease-in-out;
+  }
+
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column; /* Stack containers vertically on smaller screens */
+    }
+
+    .text-container,
+    .image-container {
+      max-width: 100%; /* Allow both containers to take full width on smaller screens */
+    }      
+    .image-container {
+      width: 100%; /* Make the image fill horizontally */
+      height: auto; /* Allow the image to adjust its height */
+    }
+
+    .text-container {
+      align-self: flex-start; 
+      font-size: 1.5em;
+    }
+
+  }
+
+  .italian {
+  color: white;
+}
+
+.english {
+  color: yellow;
+}
+

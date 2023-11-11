@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>In memory of Pietro Cedrati</title>
+</head>
+
+<body>
+  <div class="flex-container">
+    <div class="text-container" id="textContainer">
+        <div class="caption" >
+            <p class="italian" id="italianText"></p>
+            <p class="english" id="englishText"></p>
+          </div>
+    </div>
+
+    <div class="image-container" id="imageContainer">
+      <img id="slideImage" src="" alt="Your Image">
+    </div>
+
+    <div class="buttons-container">
+      <button class="back-button" onclick="loadPrevious()"><</button>
+      <button class="next-button" onclick="loadNext()">></button>
+    </div>
+
+  </div>
+
+  <div class="counter" id="counter">
+    */*
+  </div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
