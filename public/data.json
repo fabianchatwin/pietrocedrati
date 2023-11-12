@@ -15,13 +15,13 @@
         "imageName": "genitori.png" 
     },
     { 
-        "textItalian": "Ticino <br> Primi anni 50", 
-        "textEnglish": "The Ticino River in the early 1950s", 
+        "textItalian": "Ticino <br> Tardi anni 40", 
+        "textEnglish": "The Ticino River in the late 1940s", 
         "imageName": "ticino1.png" 
     },
     { 
-        "textItalian": "Ticino <br> Primi anni 50", 
-        "textEnglish": "The Ticino River in the early 1950s", 
+        "textItalian": "Ticino <br> Tardi anni 40", 
+        "textEnglish": "The Ticino River in the late 1940s", 
         "imageName": "ticino2.png" 
     },
     { 
@@ -48,8 +48,55 @@
         "textItalian": "Questa foto è più recente. Casinò di Sanremo. Notate il basso fender che Piero ha acquistato per primo nel Nord Italia. <br> E poi invece di tenerlo ha deciso di barattarlo per la chitarra attuale.", 
         "textEnglish": "This photo is more recent. Sanremo Casino. Notice the Fender bass that Piero bought first in Northern Italy.<br> Instead of keeping it, he decided to exchange it for the current guitar.", 
         "imageName": "sanremo.png" 
+    },
+    { 
+        "textItalian": "Tripoli, Libia <br> anni 50", 
+        "textEnglish": "Tripoli, Lybia <br> 1950s", 
+        "imageName": "tripoli2.png" 
+    },
+    { 
+        "textItalian": "Piccolo Piter era preoccupato che la sua carriera di musicista si interrompesse con la chiamata militare…", 
+        "textEnglish": "Little Peter was worried that his musical career would be over when he was called up for national service.", 
+        "imageName": "militare2.png" 
+    },
+    { 
+        "textItalian": "… e invece gli hanno messo in mano una tromba e si messo a suonarla <br> E così lo fecero Caporale", 
+        "textEnglish": ".... they said musician? Play this.... and so he started playing the trumpet!! And they made him corporal major!", 
+        "imageName": "militare3.png" 
+    },
+    { 
+        "textItalian": "Anche la brava cantante Diana Dors ha chiamato Piccolo Piter.<br>\"Vieni a suonare da me\" gli chiese", 
+        "textEnglish": "Even the famous singer Diana Dors called Little Peter .. \"Come and play for me\" she said!!", 
+        "imageName": "dianadors.png" 
+    },
+    { 
+        "textItalian": "Casinò di Montreaux<br>Quella volta che dovevano suonare i Deep Purple...", 
+        "textEnglish": "Montreax casino in Switzerland<br> when the Deep Purple should have played.", 
+        "imageName": "montreaux.png" 
+    },
+    { 
+        "textItalian": "C’è stato un incendio… <br> Piccolo Piter ha suonato, ma i Deep Purple no.", 
+        "textEnglish": "But... <br>there was a fire and the Deep Purple didn't play but Piccolo Piter did. ", 
+        "imageName": "cigarette.png" 
+    },
+    { 
+        "textItalian": "E nacque <br> \"smoke on the water\"...", 
+        "textEnglish": "And so the song \"Smoke on the Water\" was written. ", 
+        "imageName": "montreaux2.png" 
     }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
