@@ -83,12 +83,53 @@
         "textItalian": "E nacque <br> \"smoke on the water\"...", 
         "textEnglish": "And so the song \"Smoke on the Water\" was written. ", 
         "imageName": "montreaux2.png" 
+    },
+    { 
+        "textItalian": "Mentre suonava a Milano, Piccolo Piter vide una giovane fanciulla che ballava nei campi intorno al Duomo... e si innamorò.", 
+        "textEnglish": "While playing in Milan, Little Peter saw a young girl dancing in the fields around the Duomo... and he fell in love.", 
+        "imageName": "ballerina.png" 
+    },
+    { 
+        "textItalian": "\"Sposami\" disse Piccolo Piter. \"Vieni a vivere una vita da signora....\"", 
+        "textEnglish": "\"Marry me,\" said Little Peter. \"Come and live a lady's life...\"", 
+        "imageName": "matrimonio.png" 
+    },
+    { 
+        "textItalian": "... nel mio castello di Belcreda", 
+        "textEnglish": "… in my castle in Belcreda", 
+        "imageName": "belcreda1.png" 
+    },
+    { 
+        "textItalian": "… là non dovrai lavorare e portare pesi …", 
+        "textEnglish": "... there you won't have to work and carry burdens...", 
+        "imageName": "belcreda2.png" 
+    },
+    { 
+        "textItalian": "Rimani con me in… \"Sunny Italy\"", 
+        "textEnglish": "Live with me in… \"Sunny Italy\"", 
+        "imageName": "belcreda3.png" 
+    },
+    { 
+        "textItalian": "Locarno, Svizzera <br> Anni 70", 
+        "textEnglish": "Locarno, Switzerland <br> 1970s", 
+        "imageName": "locarno.png" 
+    },
+    { 
+        "textItalian": "Nei gruppi con nomi che oggi suonerebbero un pò strani", 
+        "textEnglish": "in musical groups with names that today would sound a little strange.", 
+        "imageName": "quellinord.png" 
+    },
+    { 
+        "textItalian": "Milano, anni 70", 
+        "textEnglish": "Mila, 1970s", 
+        "imageName": "milano.png" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "felice.png" 
     }
 ]
-
-
-
-
 
 
 
