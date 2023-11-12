@@ -60,6 +60,14 @@ body {
       background-color: #919191;
   }
 
+  .caption button {
+    width: 300px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
   .counter-container button {
     width: 100px;
   }

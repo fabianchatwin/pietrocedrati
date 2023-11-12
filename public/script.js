@@ -56,6 +56,11 @@ function loadPrevious() {
     loadSlide(currentIndex);
 }
 
+function loadList() {
+    alert("load List");
+}
+
+
 document.addEventListener('keydown', function (event) {
     if (event.key === 'ArrowRight') {
     loadNext();
@@ -68,6 +73,8 @@ document.addEventListener('keydown', function (event) {
     }
 });
 document.querySelector('.flex-container').addEventListener('click', loadNext);
+
+//document.querySelector('#init').addEventListener('click', loadList);
 
 // Initial load
 loadSlide(currentIndex);

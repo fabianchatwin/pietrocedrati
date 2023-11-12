@@ -17,7 +17,7 @@
     { 
         "textItalian": "Ticino <br> Tardi anni 40", 
         "textEnglish": "The Ticino River in the late 1940s", 
-        "imageName": "ticino1.jpg" 
+        "imageName": "ticino1.png" 
     },
     { 
         "textItalian": "Ticino <br> Tardi anni 40", 
@@ -27,7 +27,7 @@
     { 
         "textItalian": "Ticino <br> Primi anni 50", 
         "textEnglish": "The Ticino River in the early 1950s", 
-        "imageName": "ticino3.jpg" 
+        "imageName": "ticino3.png" 
     },
     { 
         "textItalian": "A Piccolo Piter piaceva molto la musica e ha cominciato a viaggiare per il mondo suonando per i Ricchi e per i Poveri", 
@@ -37,27 +37,27 @@
     { 
         "textItalian": "Sforzesca <br> anni 50", 
         "textEnglish": "Sforzesca <br> 1950s", 
-        "imageName": "sforzesca1.jpg" 
+        "imageName": "sforzesca1.png" 
     },
     { 
         "textItalian": "Tripoli, Libia <br> anni 50", 
         "textEnglish": "Tripoli, Lybia <br> 1950s", 
-        "imageName": "tripoli1.jpg" 
+        "imageName": "tripoli1.png" 
     },
     { 
         "textItalian": "Questa foto è più recente. Casinò di Sanremo. Notate il basso fender che Piero ha acquistato per primo nel Nord Italia. <br> E poi invece di tenerlo ha deciso di barattarlo per la chitarra attuale.", 
         "textEnglish": "This photo is more recent. Sanremo Casino. Notice the Fender bass that Piero bought first in Northern Italy.<br> Instead of keeping it, he decided to exchange it for the current guitar.", 
-        "imageName": "sanremo.jpg" 
+        "imageName": "sanremo.png" 
     },
     { 
         "textItalian": "Tripoli, Libia <br> anni 50", 
         "textEnglish": "Tripoli, Lybia <br> 1950s", 
-        "imageName": "tripoli2.jpg" 
+        "imageName": "tripoli2.png" 
     },
     { 
         "textItalian": "Piccolo Piter era preoccupato che la sua carriera di musicista si interrompesse con la chiamata militare…", 
         "textEnglish": "Little Peter was worried that his musical career would be over when he was called up for national service.", 
-        "imageName": "militare2.jpg" 
+        "imageName": "militare2.png" 
     },
     { 
         "textItalian": "… e invece gli hanno messo in mano una tromba e si messo a suonarla <br> E così lo fecero Caporale", 
@@ -216,15 +216,14 @@
     },
     { 
         "textItalian": "Passaggio di consegne", 
-        "textEnglish": "The Handovwer", 
+        "textEnglish": "The Handover", 
         "imageName": "passaggio_consegne.jpg" 
     },
     { 
         "textItalian": "Fine della Prima Puntata", 
-        "textEnglish": "End of the First Episode", 
+        "textEnglish": "End of the First Episode<br><br><button class=\"longButton\"><a href=\"papa1.pdf\">PDF Version</a></button><br><br><button class=\"longButton\"><a href=\"papa2.pdf\">More Photo PDF</a></button>",  
         "imageName": "flauto.jpg" 
     }
-]
 ]
 
 
