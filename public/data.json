@@ -38,6 +38,11 @@
         "textItalian": "Sforzesca <br> anni 50", 
         "textEnglish": "Sforzesca <br> 1950s", 
         "imageName": "sforzesca1.png" 
+    },
+    { 
+        "textItalian": "Tripoli, Libia <br> anni 50", 
+        "textEnglish": "Tripoli, Lybia <br> 1950s", 
+        "imageName": "tripoli1.png" 
     }
 ]
 
