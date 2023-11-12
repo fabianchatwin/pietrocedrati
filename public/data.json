@@ -43,8 +43,16 @@
         "textItalian": "Tripoli, Libia <br> anni 50", 
         "textEnglish": "Tripoli, Lybia <br> 1950s", 
         "imageName": "tripoli1.png" 
+    },
+    { 
+        "textItalian": "Questa foto è più recente. Casinò di Sanremo. Notate il basso fender che Piero ha acquistato per primo nel Nord Italia. <br> E poi invece di tenerlo ha deciso di barattarlo per la chitarra attuale.", 
+        "textEnglish": "This photo is more recent. Sanremo Casino. Notice the Fender bass that Piero bought first in Northern Italy.<br> Instead of keeping it, he decided to exchange it for the current guitar.", 
+        "imageName": "sanremo.png" 
     }
 ]
+
+
+
 
 
 

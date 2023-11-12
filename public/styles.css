@@ -60,6 +60,10 @@ body {
       background-color: #919191;
   }
 
+  .counter-container button {
+    width: 80px;
+  }
+
   img {
     width: auto;
     height: 100%;
