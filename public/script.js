@@ -2,7 +2,7 @@ let currentIndex = 0;
 let galleryData;
 
 function loadSlide(index) {
-    fetch('data.json') // Fetch the data from data.json
+    fetch('data.json') 
     .then(response => response.json())
     .then(data => {
 
@@ -60,7 +60,6 @@ function loadList() {
     alert("load List");
 }
 
-
 document.addEventListener('keydown', function (event) {
     if (event.key === 'ArrowRight') {
     loadNext();
@@ -74,7 +73,4 @@ document.addEventListener('keydown', function (event) {
 });
 document.querySelector('.flex-container').addEventListener('click', loadNext);
 
-//document.querySelector('#init').addEventListener('click', loadList);
-
-// Initial load
 loadSlide(currentIndex);
