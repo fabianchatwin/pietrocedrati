@@ -2,7 +2,7 @@
     { 
         "textItalian": "In memory <br><br> Pietro Cedrati", 
         "textEnglish": "<br><br>30/06/1936 <br><br> 11/11/2022", 
-        "imageName": "sorride.png" 
+        "imageName": "sorride.jpg" 
     },
     { 
         "textItalian": "La vita di Piccolo Piter<br><br>C’era una volta un bambino, piccolo, piccolo che si chiamava Piccolo Piter il Lupo", 
@@ -12,22 +12,22 @@
     { 
         "textItalian": "Piccolo Piter abitava in un grande castello nella belissima Valle del Po con i suoi genitori", 
         "textEnglish": "Little Peter lived a big castle with his parents in the beautiful Po Valley.", 
-        "imageName": "genitori.png" 
+        "imageName": "genitori.jpg" 
     },
     { 
         "textItalian": "Ticino <br> Tardi anni 40", 
         "textEnglish": "The Ticino River in the late 1940s", 
-        "imageName": "ticino1.png" 
+        "imageName": "ticino1.jpg" 
     },
     { 
         "textItalian": "Ticino <br> Tardi anni 40", 
         "textEnglish": "The Ticino River in the late 1940s", 
-        "imageName": "ticino2.png" 
+        "imageName": "ticino2.jpg" 
     },
     { 
         "textItalian": "Ticino <br> Primi anni 50", 
         "textEnglish": "The Ticino River in the early 1950s", 
-        "imageName": "ticino3.png" 
+        "imageName": "ticino3.jpg" 
     },
     { 
         "textItalian": "A Piccolo Piter piaceva molto la musica e ha cominciato a viaggiare per il mondo suonando per i Ricchi e per i Poveri", 
@@ -37,99 +37,196 @@
     { 
         "textItalian": "Sforzesca <br> anni 50", 
         "textEnglish": "Sforzesca <br> 1950s", 
-        "imageName": "sforzesca1.png" 
+        "imageName": "sforzesca1.jpg" 
     },
     { 
         "textItalian": "Tripoli, Libia <br> anni 50", 
         "textEnglish": "Tripoli, Lybia <br> 1950s", 
-        "imageName": "tripoli1.png" 
+        "imageName": "tripoli1.jpg" 
     },
     { 
         "textItalian": "Questa foto è più recente. Casinò di Sanremo. Notate il basso fender che Piero ha acquistato per primo nel Nord Italia. <br> E poi invece di tenerlo ha deciso di barattarlo per la chitarra attuale.", 
         "textEnglish": "This photo is more recent. Sanremo Casino. Notice the Fender bass that Piero bought first in Northern Italy.<br> Instead of keeping it, he decided to exchange it for the current guitar.", 
-        "imageName": "sanremo.png" 
+        "imageName": "sanremo.jpg" 
     },
     { 
         "textItalian": "Tripoli, Libia <br> anni 50", 
         "textEnglish": "Tripoli, Lybia <br> 1950s", 
-        "imageName": "tripoli2.png" 
+        "imageName": "tripoli2.jpg" 
     },
     { 
         "textItalian": "Piccolo Piter era preoccupato che la sua carriera di musicista si interrompesse con la chiamata militare…", 
         "textEnglish": "Little Peter was worried that his musical career would be over when he was called up for national service.", 
-        "imageName": "militare2.png" 
+        "imageName": "militare2.jpg" 
     },
     { 
         "textItalian": "… e invece gli hanno messo in mano una tromba e si messo a suonarla <br> E così lo fecero Caporale", 
         "textEnglish": ".... they said musician? Play this.... and so he started playing the trumpet!! And they made him corporal major!", 
-        "imageName": "militare3.png" 
+        "imageName": "militare3.jpg" 
     },
     { 
         "textItalian": "Anche la brava cantante Diana Dors ha chiamato Piccolo Piter.<br>\"Vieni a suonare da me\" gli chiese", 
         "textEnglish": "Even the famous singer Diana Dors called Little Peter .. \"Come and play for me\" she said!!", 
-        "imageName": "dianadors.png" 
+        "imageName": "dianadors.jpg" 
     },
     { 
         "textItalian": "Casinò di Montreaux<br>Quella volta che dovevano suonare i Deep Purple...", 
         "textEnglish": "Montreax casino in Switzerland<br> when the Deep Purple should have played.", 
-        "imageName": "montreaux.png" 
+        "imageName": "montreaux.jpg" 
     },
     { 
         "textItalian": "C’è stato un incendio… <br> Piccolo Piter ha suonato, ma i Deep Purple no.", 
         "textEnglish": "But... <br>there was a fire and the Deep Purple didn't play but Piccolo Piter did. ", 
-        "imageName": "cigarette.png" 
+        "imageName": "cigarette.jpg" 
     },
     { 
         "textItalian": "E nacque <br> \"smoke on the water\"...", 
         "textEnglish": "And so the song \"Smoke on the Water\" was written. ", 
-        "imageName": "montreaux2.png" 
+        "imageName": "montreaux2.jpg" 
     },
     { 
         "textItalian": "Mentre suonava a Milano, Piccolo Piter vide una giovane fanciulla che ballava nei campi intorno al Duomo... e si innamorò.", 
         "textEnglish": "While playing in Milan, Little Peter saw a young girl dancing in the fields around the Duomo... and he fell in love.", 
-        "imageName": "ballerina.png" 
+        "imageName": "ballerina.jpg" 
     },
     { 
         "textItalian": "\"Sposami\" disse Piccolo Piter. \"Vieni a vivere una vita da signora....\"", 
         "textEnglish": "\"Marry me,\" said Little Peter. \"Come and live a lady's life...\"", 
-        "imageName": "matrimonio.png" 
+        "imageName": "matrimonio.jpg" 
     },
     { 
         "textItalian": "... nel mio castello di Belcreda", 
         "textEnglish": "… in my castle in Belcreda", 
-        "imageName": "belcreda1.png" 
+        "imageName": "belcreda1.jpg" 
     },
     { 
         "textItalian": "… là non dovrai lavorare e portare pesi …", 
         "textEnglish": "... there you won't have to work and carry burdens...", 
-        "imageName": "belcreda2.png" 
+        "imageName": "belcreda2.jpg" 
     },
     { 
         "textItalian": "Rimani con me in… \"Sunny Italy\"", 
         "textEnglish": "Live with me in… \"Sunny Italy\"", 
-        "imageName": "belcreda3.png" 
+        "imageName": "belcreda3.jpg" 
     },
     { 
         "textItalian": "Locarno, Svizzera <br> Anni 70", 
         "textEnglish": "Locarno, Switzerland <br> 1970s", 
-        "imageName": "locarno.png" 
+        "imageName": "locarno.jpg" 
     },
+    { 
+        "textItalian": "Dopo qualche anno sono arrivati i piccoli lupetti...<br>Uno suonava da dio... Gli altri putroppo...", 
+        "textEnglish": "After a few years, the little wolf cubs arrived... One played amazingly... Unfortunately, the others...", 
+        "imageName": "fabian1.jpg" 
+    },
+    { 
+        "textItalian": "Cantavan da Cane!", 
+        "textEnglish": "They song like dogs!", 
+        "imageName": "dogs.jpg" 
+    },        
     { 
         "textItalian": "Nei gruppi con nomi che oggi suonerebbero un pò strani", 
         "textEnglish": "in musical groups with names that today would sound a little strange.", 
-        "imageName": "quellinord.png" 
+        "imageName": "quellinord.jpg" 
     },
     { 
         "textItalian": "Milano, anni 70", 
         "textEnglish": "Mila, 1970s", 
-        "imageName": "milano.png" 
+        "imageName": "milano.jpg" 
     },
     { 
         "textItalian": "", 
         "textEnglish": "", 
-        "imageName": "felice.png" 
+        "imageName": "felice.jpg" 
+    },
+    { 
+        "textItalian": "Piccol Piter era così bravo, che tutto il paese di Gambolò voleva che lui diventasse il loro insegnante.", 
+        "textEnglish": "Little Peter was so talented that the entire town of Gambolò wanted him to become their teacher.", 
+        "imageName": "scuola1.jpg" 
+    },
+    { 
+        "textItalian": "E così, Piccolo Piter ha smesso di girare il mondo per far suonare i suonati!", 
+        "textEnglish": "And so, Little Peter stopped traveling the world to let the played ones play!", 
+        "imageName": "scuola2.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_bianco_3.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_bianco_5.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_6.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_7.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_8.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_9.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_cedrati_terzaghi_1.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_cedrati_terzaghi_2.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_10.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_11.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_12.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_13.jpg" 
+    },
+    { 
+        "textItalian": "", 
+        "textEnglish": "", 
+        "imageName": "saggio_14.jpg" 
+    },
+    { 
+        "textItalian": "Passaggio di consegne", 
+        "textEnglish": "The Handovwer", 
+        "imageName": "passaggio_consegne.jpg" 
+    },
+    { 
+        "textItalian": "Fine della Prima Puntata", 
+        "textEnglish": "End of the First Episode", 
+        "imageName": "flauto.jpg" 
     }
 ]
+]
+
 
 
 
